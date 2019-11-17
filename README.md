@@ -1,1 +1,5 @@
-# MyLoL
+# MyLoL Project
+
+## Angular
+
+## Backend
